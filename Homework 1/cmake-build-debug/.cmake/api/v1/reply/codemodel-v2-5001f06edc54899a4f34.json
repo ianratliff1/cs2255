@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Homework_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Homework_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Homework_1-Debug-040feacd7cec5b9d453c.json",
+					"name" : "Homework_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ianratliff/Library/CloudStorage/GoogleDrive-ratlifim@gmail.com/My Drive/Personal/Education/Troy MS Computer Science/Coursework/CS2255 Computer Science II/Homework/Homework 1/cmake-build-debug",
+		"source" : "/Users/ianratliff/Library/CloudStorage/GoogleDrive-ratlifim@gmail.com/My Drive/Personal/Education/Troy MS Computer Science/Coursework/CS2255 Computer Science II/Homework/Homework 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
